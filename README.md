@@ -1,8 +1,8 @@
-# Competitive-Programming
+# Codeforces-Solutions
 
 ## Intro
 
->	Automated by [cp-tool](https://github.com/jspw/cp-tool)
+>	[Here](https://codeforces.com/profile/coderdhanraj) is my codeforces profile.
 
 This is a repository to keep track of my problem solving practice.
 For now, It contains all the problems I have solved at 
